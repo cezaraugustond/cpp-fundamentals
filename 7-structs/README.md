@@ -474,3 +474,20 @@ Structs ajudam muito na organização:
 
 ```
 ```
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) [EXEMPLO PENSADO E DESENVOLVIDO POR MIM]: Desenvolva um algoritmo que registre e exiba o boletim de até cinquenta alunos, utilizando ponteiros e modularização. O programa deve solicitar, para cada aluno, o nome e quatro notas, calcular a média aritmética e armazená-la. O usuário poderá decidir se deseja continuar o cadastro ou encerrar o processo a qualquer momento, sendo interrompido automaticamente ao atingir o limite de cinquenta alunos. Ao final, o programa deve exibir o boletim individual de cada aluno contendo nome, média e situação final, que pode ser: “APROVADO” (média maior ou igual a 7), “EM RECUPERAÇÃO” (média entre 5 e 6.9) ou “REPROVADO” (média inferior a 5).  [EXEMPLO PENSADO E DESENVOLVIDO POR MIM].
+
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que cadastre e exiba o boletim de até cinquenta alunos. O programa deve solicitar, para cada aluno, o nome, a idade e quatro notas, calcular a média das notas e armazená-la junto aos demais dados. A inserção de alunos deve continuar conforme a resposta do usuário ou até o limite de cinquenta alunos ser atingido. Ao final, o programa deve exibir o boletim individual de cada aluno com nome, idade e média.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que registre os dados de até cinquenta alunos e apresente um relatório com base no desempenho de cada um. O programa deve solicitar o nome, a idade e quatro notas por aluno, calcular a média aritmética, classificar a situação (aprovado, em recuperação ou reprovado) e contabilizar a quantidade total de alunos em cada categoria. Ao final, deve exibir os dados individuais de cada aluno e o relatório geral com o número de aprovados, em recuperação e reprovados.
+
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que registre os dados acadêmicos de até cinquenta alunos, utilizando structs com métodos. O programa deve armazenar o nome, a idade e quatro notas de cada aluno, calcular a média individual e classificar a situação de cada um como aprovado, em recuperação ou reprovado. Ao final, o programa deve exibir o boletim de todos os alunos cadastrados e apresentar um relatório com a quantidade total de alunos em cada categoria. Solicite os dados de forma interativa e utilize ponteiros, se necessário.
+
+[Exemplo 5:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que utilize uma struct para representar uma pessoa. O programa deve armazenar o nome e a idade, permitir exibir essas informações em uma frase personalizada e aumentar a idade em um ano. Solicite os dados diretamente no código e exiba os resultados conforme as ações realizadas.
+
+[Exemplo 6:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que utilize uma struct com método construtor e destrutor para representar um usuário. O programa deve armazenar o ID e o nome do usuário, exibindo mensagens ao criar e destruir o objeto, e mostrando os dados cadastrados na tela.

@@ -437,3 +437,21 @@ Saída:
 ```txt id="r5i1qf"
 20
 ```
+
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que compare dois valores informados pelo usuário utilizando operadores relacionais. O programa deve solicitar dois números inteiros, realizar as comparações de maior, menor, maior ou igual, menor ou igual, igual e diferente, e exibir os resultados lógicos de cada operação.
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que verifique se o usuário é maior de idade. O programa deve solicitar a idade do usuário, analisar se a idade é maior ou igual a 18 anos e exibir uma mensagem informando se ele é maior ou menor de idade.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule a média de quatro notas informadas pelo usuário. O programa deve solicitar as quatro notas, calcular a média aritmética, exibir o resultado e informar se o aluno está aprovado (média maior ou igual a 7) ou em recuperação (média inferior a 7).
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule a média de quatro notas informadas pelo usuário. O programa deve solicitar as quatro notas, calcular a média aritmética, exibir o valor da média e, com base nela, informar se o aluno está aprovado (média maior ou igual a 7), reprovado (média menor que 5) ou em recuperação (demais casos).
+
+[Exemplo 5:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que avalie a obrigatoriedade do voto com base na idade informada pelo usuário. O programa deve solicitar a idade, verificar se o voto é obrigatório (idade entre 18 e 69), facultativo (idade igual a 16, 17 ou maior ou igual a 70) ou se a pessoa ainda não pode votar, e exibir a situação correspondente.
+
+[Exemplo 6:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que realize operações matemáticas com base na escolha do usuário. O programa deve solicitar dois valores numéricos, exibir um menu com as opções de soma, subtração, multiplicação, divisão ou sair, ler a opção escolhida, realizar a operação correspondente e exibir o resultado.
+
+[Exemplo 7:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que identifique o maior entre dois números informados pelo usuário. O programa deve solicitar dois valores inteiros, utilizar o operador ternário para determinar o maior valor e exibir o resultado na tela.

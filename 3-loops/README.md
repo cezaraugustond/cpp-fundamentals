@@ -318,3 +318,16 @@ int a;
 | `++` / `--`      | Incrementa ou decrementa                 |
 | `+=`, `-=`, etc. | Atribuição composta                      |
 
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que exiba uma contagem de 0 até um número informado pelo usuário utilizando a estrutura de repetição while. O programa deve solicitar um valor inteiro, realizar a contagem crescente até esse valor e exibir cada número na tela.
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule o fatorial de um número informado pelo usuário utilizando a estrutura de repetição while. O programa deve solicitar um valor inteiro, calcular seu fatorial por meio de multiplicações sucessivas e exibir o resultado formatado na tela.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule o fatorial de um número informado pelo usuário utilizando a estrutura de repetição do...while. O programa deve solicitar um valor inteiro, realizar o cálculo do fatorial com multiplicações sucessivas e exibir a sequência da operação seguida do resultado.
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que exiba a tabuada de um número informado pelo usuário utilizando a estrutura de repetição for. O programa deve solicitar um valor inteiro, calcular e exibir o resultado da multiplicação desse número por valores de 0 a 10.
+
+[Exemplo 5:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que some valores inteiros informados pelo usuário de forma contínua, até que o valor digitado seja zero. O programa deve solicitar repetidamente números inteiros, somar todos os valores informados e exibir o total acumulado ao final da execução.

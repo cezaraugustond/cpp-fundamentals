@@ -377,3 +377,14 @@ Os elementos também são armazenados sequencialmente na memória.
 
 ```
 ```
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que armazene e exiba idades utilizando um vetor. O programa deve solicitar a idade de cinco pessoas, armazenando os valores em um vetor, e exibir cada idade informada ao final.
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule a média das notas de um aluno. O programa deve solicitar quatro notas, armazená-las em um vetor, calcular a média aritmética e exibir o resultado final.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que trate exceções ao converter strings em inteiros. O programa deve solicitar dois valores do tipo texto, tentar convertê-los para inteiros utilizando try/catch, exibindo a soma dos valores convertidos e a concatenação original das strings, tratando possíveis erros de conversão ou estouro de valor.
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que manipule uma matriz 4x4 de números inteiros. O programa deve solicitar os valores de cada posição da matriz, exibir a matriz completa, calcular e exibir o somatório de cada linha, o somatório da diagonal principal e o maior valor presente na matriz.

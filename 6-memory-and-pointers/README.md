@@ -553,3 +553,16 @@ Muito usado para:
 
 ```
 ```
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que utilize ponteiros para acessar e exibir valores e endereços de memória. O programa deve declarar uma variável inteira, associar um ponteiro a ela, exibir o valor da variável diretamente e por meio do ponteiro, além de mostrar os respectivos endereços de memória.
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que modifique o valor de uma variável por meio de um ponteiro. O programa deve declarar uma variável inteira, associá-la a um ponteiro, alterar seu valor utilizando o ponteiro e exibir os resultados antes e depois da modificação direta na variável.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule o quadrado de um número utilizando ponteiro como parâmetro de função. O programa deve solicitar um valor inteiro do usuário, passar seu endereço para uma função que calcula o quadrado e exibir o resultado.
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que altere diretamente o valor de uma variável utilizando ponteiro como parâmetro de função. O programa deve solicitar um número inteiro do usuário, calcular seu quadrado por meio de uma função com ponteiro e exibir o resultado final.
+
+[Exemplo 5:](./exemplos/exemplo5.cpp) Desenvolva um algoritmo que implemente uma struct com alocação dinâmica de memória para armazenar uma string. O programa deve receber um texto diretamente no construtor da struct, calcular o tamanho da string manualmente, armazenar os caracteres em memória alocada dinamicamente e exibir o tamanho da string e um caractere específico armazenado no array.

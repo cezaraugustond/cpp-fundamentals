@@ -458,3 +458,16 @@ Em projetos grandes, evitar `using namespace std;` pode ser uma boa prática par
 
 ```
 ```
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule a média de três notas utilizando uma função. O programa deve solicitar três valores numéricos representando as notas, repassar os valores para a função e exibir a média final calculada.
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que implemente uma calculadora utilizando uma biblioteca personalizada com operações matemáticas básicas. O programa deve solicitar dois valores numéricos e o operador desejado (+, -, , /), realizar a operação correspondente utilizando funções da biblioteca externa e exibir o resultado. A execução deve se repetir até que o usuário opte por encerrar.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que valide a entrada de dados numéricos fornecidos pelo usuário. O programa deve solicitar um valor, utilizar verificação de falha na entrada (cin.fail()) para garantir que o dado seja numérico e só permitir a continuidade da execução após o recebimento de uma entrada válida, exibindo o valor digitado.
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que realize a divisão entre dois números utilizando tratamento de exceções. O programa deve solicitar dois valores numéricos, lançar uma exceção com throw caso ocorra tentativa de divisão por zero, capturar a exceção com try/catch e exibir uma mensagem apropriada ou o resultado da operação.
+
+[Exemplo 5:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que demonstre a criação e o uso de namespaces. O programa deve definir namespaces personalizados, incluindo um namespace aninhado, acessar seus elementos por meio de aliases e exibir os valores armazenados em cada um.

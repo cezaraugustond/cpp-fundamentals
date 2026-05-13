@@ -348,3 +348,22 @@ Saída:
 ```txt
 2.5
 ```
+---
+
+## Exemplos:
+
+[Exemplo 1:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que exiba a mensagem “Hello World” na tela. O programa deve realizar a impressão direta do texto, sem solicitar nenhuma entrada do usuário e exibindo o conteúdo conforme especificado.
+
+[Exemplo 2:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que demonstre diferentes formas de exibir mensagens em linhas distintas utilizando o manipulador `endl`. O programa deve apresentar exemplos com o uso do `endl` ao final de cada instrução `cout`, bem como seu uso dentro de uma mesma linha de código, sem solicitar entradas do usuário e exibindo os resultados em linhas separadas.
+
+[Exemplo 3:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que declare uma variável inteira, atribua um valor a ela e exiba esse valor na tela. O programa deve realizar a declaração e inicialização da variável diretamente no código, sem solicitar entradas do usuário, e exibindo o conteúdo armazenado de forma clara.
+
+[Exemplo 4:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que realize operações matemáticas básicas. O programa deve calcular e exibir os resultados das operações de adição, subtração, multiplicação, divisão e resto da divisão inteira, sem solicitar entradas do usuário e apresentando os resultados de forma organizada.
+
+[Exemplo 5:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que demonstre o uso do tipo double e a aplicação do casting em operações de divisão. O programa deve realizar diferentes formas de divisão, incluindo o uso de números inteiros, números reais e conversão explícita de tipo, sem solicitar entradas do usuário e exibindo os resultados de cada operação.
+
+[Exemplo 6:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que solicite ao usuário a sua idade. O programa deve receber a entrada do usuário utilizando cin e exibir a idade informada na tela.
+
+[Exemplo 7:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que solicite ao usuário dois valores numéricos, realize a soma entre eles e exiba o resultado da operação. O programa deve receber as entradas do usuário e apresentar a soma calculada de forma clara.
+
+[Exemplo 8:](./exemplos/exemplo1.cpp) Desenvolva um algoritmo que calcule o custo total de uma viagem com base na distância percorrida, no consumo do carro em km por litro e no preço da gasolina. O programa deve solicitar ao usuário a distância em quilômetros, o consumo do veículo e o preço do combustível, calcular o valor gasto na viagem e exibir o resultado.
